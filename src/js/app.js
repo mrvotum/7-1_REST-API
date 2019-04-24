@@ -1,6 +1,6 @@
 import API from './API.js';
 
-const api = new API('http://localhost:7075/TicketFull');
+const api = new API('https://seven-one.herokuapp.com');
 
 async function a() {
   {
