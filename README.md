@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0bg92j05ynbjb72g?svg=true)](https://ci.appveyor.com/project/mrvotum/7-1-rest-api)
+[![Build status](https://ci.appveyor.com/api/projects/status/i4cwootww6r7xyh6?svg=true)](https://ci.appveyor.com/project/mrvotum/7-1-rest-api)
 
 # AHJ. Popovers
 
