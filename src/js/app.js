@@ -10,6 +10,7 @@ async function a() {
   }
 
   { // добавляем тикет
+    // eslint-disable-next-line no-unused-vars
     const TicketFull = await api.add({
       id: 1,
       name: 'принтер не работает',
