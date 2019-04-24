@@ -2,5 +2,6 @@
 
 # AHJ. Popovers
 
-### link: https://github.com/mrvotum/7-1_REST-API
+### link: https://mrvotum.github.io/7-1_REST-API/
+
 ###### tags: `netology`
