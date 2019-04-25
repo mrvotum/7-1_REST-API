@@ -18,13 +18,6 @@ async function a() {
       status: false,
       created: '12.01.1992',
     });
-
-    // const Ticket = await api.add({
-    //   id: TicketFull[0],
-    //   name: TicketFull[2],
-    //   status: TicketFull[3],
-    //   created: TicketFull[4],
-    // });
   }
 
   {
